@@ -1,4 +1,4 @@
 # hello-world
-i am harika.I am somewhat good at coding.
+I am harika.
 I like github a lot
 commit
